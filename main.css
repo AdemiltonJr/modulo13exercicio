@@ -1,0 +1,36 @@
+html {
+    font-family: "Ubuntu, serif";
+    font-style: normal;
+}
+
+/* #cabecalho {
+    background-color: #5c2702
+}
+
+.nav-link {
+    color: #E0E4CC;
+} */
+
+h1 {
+font-family: "Ubuntu", serif;
+font-weight: 700;
+font-style: normal;
+font-size: 1.5em;
+color: #E0E4CC;
+}
+
+img {
+    max-width: 100%;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-colored {
+    color: #FA6900;
+}
+
+#metodologia {
+    background-color: #E0E4CC;
+}
